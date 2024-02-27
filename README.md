@@ -1,1 +1,3 @@
-# typing_website
+# Typing Website
+
+Test your writing speed
